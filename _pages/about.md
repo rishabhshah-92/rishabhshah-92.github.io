@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the Office of Chief Scientist at Environmental Defense Fund. My research interests include studying air pollutants like particulate matter, atmospheric science, and environmental justice in exposure to air pollution.
+I am an Air Quality Scientist at [Aclima](https://www.aclima.io/). My main role involves analyzing the large volume of mobile air pollutant measurements collected by our vehicles, and develop metrics and indicators of pollution intensity at the hyperlocal (block-level) scale.
 
 I first stepped into the field of air pollution in 2012, when I was majoring in Environmental Engineering at my undergraduate program. I was disappointed that a vast majority of the available courses in the department were related to water quality. I thus started reading up on air pollutants, their sources, their mitigation strategies, etc. as a side project.
 
@@ -16,7 +16,7 @@ My hobbies include cycling, swimming, and watching DIY videos on YouTube on a va
 
 I very strongly support open-source software, and I believe students should be discouraged from becoming dependent on expensive proprietary software (e.g., MATLAB) for their academic/professional use, if an open-source alternative exists. I would go into details, but I think [this page](https://www.gnu.org/philosophy/free-sw.html) presents the rationale behind supporting open-source software perfectly. Based on personal experience, here are some recommendations I have for open-source software that are just as good (or in some cases, much better) compared to their proprietary counterparts:
 
-| *Purpose** | *Licensed/Proprietary software** | *Free/Open-source alternative** |
+| **Purpose** | **Licensed/Proprietary software** | **Free/Open-source alternative** |
 | ---| --- | -- |
 | *Scientific writing* | Microsoft Word (very inefficient for this purpose) | [LaTeX](https://www.latex-project.org/) |
 | *Non-scientific writing* | Microsoft Word | [Libre Writer](https://www.libreoffice.org/discover/writer/) |
