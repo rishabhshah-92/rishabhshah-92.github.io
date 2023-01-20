@@ -19,3 +19,8 @@ Daniel R. Peters, Olalekan A.M. Popoola, Roderic L. Jones, Nicholas A. Martin, J
 <b>[Socio-economic disparities in exposure to urban restaurant emissions are larger than for traffic](http://rishabhshah-92.github.io/_publications/paper-cookingEJ)</b> <br>
 <b>Rishabh U. Shah</b>, Ellis S. Robinson, Peishi Gu, Joshua S. Apte, Julian D. Marshall, Allen L. Robinson, Albert A. Presto.
 <i>Environmental Research Letters</i>. <b>2020</b>.
+
+<br>
+<b>[High-spatial-resolution mapping and source apportionment of aerosol composition in Oakland, California, using mobile aerosol mass spectrometry](http://rishabhshah-92.github.io/_publications/paper-oakland)</b> <br>
+<b>Rishabh U. Shah</b>, Ellis S. Robinson, Peishi Gu, Allen L. Robinson, Joshua S. Apte, Albert A. Presto.
+<i>Atmospheric Chemistry and Physics</i>. <b>2018</b>.
