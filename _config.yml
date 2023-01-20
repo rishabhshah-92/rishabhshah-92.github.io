@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Rishabh U. Shah"
   avatar           : "profile.png"
-  bio              : "Air Quality Scientist at Aclima, Inc."
-  location         : "San Francisco, CA (remote: based in Greater Seattle, WA)"
-  employer         :
+  bio              : "Air Quality Scientist"
+  location         : "Greater Seattle, WA"
+  employer         : "Aclima, Inc."
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Xvv6SCsAAAAJ&hl=en"
   email            :
