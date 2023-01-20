@@ -1,7 +1,7 @@
 ---
 title: "Identifying Patterns and Sources of Fine and Ultrafine Particulate Matter in London Using Mobile Measurements of Lung-Deposited Surface Area"
 collection: publications
-permalink: /publication/paper-ldsa
+permalink: /publications/paper-ldsa
 citation: ''
 ---
 [PDF](https://rishabhshah-92.github.io/files/paper-ldsa.pdf)
