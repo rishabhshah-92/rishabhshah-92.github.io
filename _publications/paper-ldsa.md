@@ -5,7 +5,7 @@ permalink: https://pubs.acs.org/doi/full/10.1021/acs.est.2c08096
 excerpt: 'We present the first ever mobile, hyperlocal measurements of lung-deposited surface area (LDSA) of airborne particulate matter. We demonstrate the comparable impacts of traffic and restaurant emissions on LDSA levels in central London, which has important health and policy implications.'
 date: 2022-12-22
 venue: 'Environmental Science and Technology'
-paperurl: 'https://rishabhshah-92.github.io/files/paper-ldsa.pdf'
+paperurl: 'https://pubs.acs.org/doi/full/10.1021/acs.est.2c08096'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
