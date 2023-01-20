@@ -10,7 +10,7 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  background: #fff;
+  background: #b2ffff;
 
   &__inner-wrap {
     @include container;
@@ -39,6 +39,7 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+	background: #b2ffff;
   }
 }
 
