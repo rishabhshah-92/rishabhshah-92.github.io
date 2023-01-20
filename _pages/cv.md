@@ -1,8 +1,9 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://rishabhshah-92.github.io/files/cv.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+<embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'> 
