@@ -16,14 +16,14 @@ My hobbies include cycling, swimming, and watching DIY videos on YouTube on a va
 
 I very strongly support open-source software, and I believe students should be discouraged from becoming dependent on expensive proprietary software (e.g., MATLAB) for their academic/professional use, if an open-source alternative exists. I would go into details, but I think [this page](https://www.gnu.org/philosophy/free-sw.html) presents the rationale behind supporting open-source software perfectly. Based on personal experience, here are some recommendations I have for open-source software that are just as good (or in some cases, much better) compared to their proprietary counterparts:
 
-| **Purpose** | **Licensed/Proprietary software** | **Free/Open-source alternative** |
+| *Purpose** | *Licensed/Proprietary software** | *Free/Open-source alternative** |
 | ---| --- | -- |
 | *Scientific writing* | Microsoft Word (very inefficient for this purpose) | [LaTeX](https://www.latex-project.org/) |
 | *Non-scientific writing* | Microsoft Word | [Libre Writer](https://www.libreoffice.org/discover/writer/) |
 | *Presentations* | Microsoft PowerPoint | [Libre Impress](https://www.libreoffice.org/discover/impress/) |
 | *Spreadsheets* | Microsoft Excel | [Libre Calc](https://www.libreoffice.org/discover/calc/) |
 | *Programming and data analysis* | MATLAB, Igor Pro | [RStudio](https://rstudio.com/) |
-| *Relational database management* | Microsoft Access | [pgAdmin](https://www.pgadmin.org/),[DB Browser](https://sqlitebrowser.org/),[LibreOffice Base](https://www.libreoffice.org/discover/base/) |
+| *Relational database management* | Microsoft Access | [pgAdmin](https://www.pgadmin.org/), [DB Browser](https://sqlitebrowser.org/), [LibreOffice Base](https://www.libreoffice.org/discover/base/) |
 | *Geospatial analysis* | ArcGIS | [Q-GIS](https://www.qgis.org/en/site/) |
 | *GUI-based scientific plotting* | Grapher, Origin, Igor Pro, etc. | [Veusz](https://veusz.github.io/) |
 | *Figure editing* | Photoshop, Illustrator, etc. | [Inkscape](https://inkscape.org/) |
