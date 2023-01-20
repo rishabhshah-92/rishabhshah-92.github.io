@@ -5,6 +5,7 @@ permalink: /_publications/paper-PetersBL
 citation: 'Peters, D.R., Popoola, O.A., Jones, R.L., Martin, N.A., Mills, J., Fonseca, E.R., Stidworthy, A., Forsyth, E., Carruthers, D., Dupuy-Todd, M. and Douglas, F., 2022. Evaluating uncertainty in sensor networks for urban air pollution insights. Atmospheric Measurement Techniques, 15(2), pp.321-334.'
 ---
 [Journal page](https://doi.org/10.5194/amt-15-321-2022)
+
 [PDF](https://rishabhshah-92.github.io/files/paper-PetersBL.pdf)
 
 ## Abstract
