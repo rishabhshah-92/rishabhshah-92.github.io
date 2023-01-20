@@ -155,7 +155,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
-theme: just-the-docs
+remote_theme: just-the-docs
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
