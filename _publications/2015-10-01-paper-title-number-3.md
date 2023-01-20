@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Identifying Patterns and Sources of Fine and Ultrafine Particulate Matter in London Using Mobile Measurements of Lung-Deposited Surface Area"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: https://pubs.acs.org/doi/full/10.1021/acs.est.2c08096
+excerpt: 'We present the first ever mobile, hyperlocal measurements of lung-deposited surface area (LDSA) of airborne particulate matter. We demonstrate the comparable impacts of traffic and restaurant emissions on LDSA levels in central London, which has important health and policy implications.'
+date: 2022-12-22
+venue: 'Environmental Science and Technology'
+paperurl: 'https://rishabhshah-92.github.io/files/paper-ldsa.pdf'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://rishabhshah-92.github.io/files/paper-ldsa.pdf)
