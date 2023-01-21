@@ -2,7 +2,7 @@
 title: "Socio-economic disparities in exposure to urban restaurant emissions are larger than for traffic"
 collection: publications
 permalink: /_publications/paper-cookingEJ
-citation: 'Shah, R.U., Robinson, E.S., Gu, P., Apte, J.S., Marshall, J.D., Robinson, A.L. and Presto, A.A., 2020. Socio-economic disparities in exposure to urban restaurant emissions are larger than for traffic. Environmental Research Letters, 15(11), p.114039.'
+citation: 'Shah, R.U., Robinson, E.S., Gu, P., Apte, J.S., Marshall, J.D., Robinson, A.L. and Presto, A.A., 2020. Socio-economic disparities in exposure to urban restaurant emissions are larger than for traffic. *Environmental Research Letters*, 15(11), p.114039.'
 ---
 [Journal page](https://iopscience.iop.org/article/10.1088/1748-9326/abbc92/meta)
 

@@ -5,6 +5,8 @@ author_profile: true
 ---
 This list only contains papers on which I am the lead author. For my full publication list, please visit [my Google Scholar page](https://scholar.google.com/citations?user=Xvv6SCsAAAAJ&hl=en).
 
+Click on the paper links below to access the PDF copy, and in some cases, some fun behind the scenes stories!
+
 <br>
 <b>[Identifying Patterns and Sources of Fine and Ultrafine Particulate Matter in London Using Mobile Measurements of Lung-Deposited Surface Area](http://rishabhshah-92.github.io/_publications/paper-ldsa)</b> <br>
 <b>Rishabh U. Shah</b>, Lauren E. Padilla, Daniel R. Peters, Megan Dupuy-Todd, Elizabeth R. Fonseca, Geoffrey Q. Ma, Olalekan A. M. Popoola, Roderic L. Jones, Jim Mills, Nicholas A. Martin, Ramón A. Alvarez.

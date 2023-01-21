@@ -2,7 +2,7 @@
 title: "High-spatial-resolution mapping and source apportionment of aerosol composition in Oakland, California, using mobile aerosol mass spectrometry"
 collection: publications
 permalink: /_publications/paper-oakland
-citation: 'Shah, R.U., Robinson, E.S., Gu, P., Robinson, A.L., Apte, J.S. and Presto, A.A., 2018. High-spatial-resolution mapping and source apportionment of aerosol composition in Oakland, California, using mobile aerosol mass spectrometry. Atmospheric Chemistry and Physics, 18(22), pp.16325-16344.'
+citation: 'Shah, R.U., Robinson, E.S., Gu, P., Robinson, A.L., Apte, J.S. and Presto, A.A., 2018. High-spatial-resolution mapping and source apportionment of aerosol composition in Oakland, California, using mobile aerosol mass spectrometry. *Atmospheric Chemistry and Physics*, 18(22), pp.16325-16344.'
 ---
 [Journal page](https://acp.copernicus.org/articles/18/16325/2018/)
 

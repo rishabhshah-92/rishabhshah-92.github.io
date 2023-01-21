@@ -2,7 +2,7 @@
 title: "Urban oxidation flow reactor measurements reveal significant secondary organic aerosol contributions from volatile emissions of emerging importance"
 collection: publications
 permalink: /_publications/paper-OFR
-citation: 'Shah, R.U., Coggon, M.M., Gkatzelis, G.I., McDonald, B.C., Tasoglou, A., Huber, H., Gilman, J., Warneke, C., Robinson, A.L. and Presto, A.A., 2019. Urban oxidation flow reactor measurements reveal significant secondary organic aerosol contributions from volatile emissions of emerging importance. Environmental science & technology, 54(2), pp.714-725.'
+citation: 'Shah, R.U., Coggon, M.M., Gkatzelis, G.I., McDonald, B.C., Tasoglou, A., Huber, H., Gilman, J., Warneke, C., Robinson, A.L. and Presto, A.A., 2019. Urban oxidation flow reactor measurements reveal significant secondary organic aerosol contributions from volatile emissions of emerging importance. *Environmental Science and Technology*, 54(2), pp.714-725.'
 ---
 [Journal page](https://doi.org/10.1021/acs.est.9b06531)
 
