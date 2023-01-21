@@ -7,3 +7,4 @@ Here are the overall appearance changes I have made to this repo after forking i
 - I changed the Masthead color to Bianchi Green (hex #b2ffff), dedicated to my Bianchi road bike.
 - I added a Mastodon icon and link to the list of social media accounts in the left sidebar.
 - I embedded my CV in the webpage, instead of having it open in a separate tab.
+- I replaced the default font with the Ubuntu font family, which is available on [Google fonts](https://fonts.google.com/specimen/Ubuntu)
