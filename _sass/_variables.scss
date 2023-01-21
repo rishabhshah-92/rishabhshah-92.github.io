@@ -7,26 +7,27 @@
    ========================================================================== */
 
 $doc-font-size              : 16;
+$rishabh-font				: "Ubuntu", sans-serif;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$serif                      : $rishabh-font, Georgia, Times, serif;
+$sans-serif                 : $rishabh-font, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace                  : $rishabh-font, Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
-$sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$sans-serif-narrow          : $rishabh-font, $sans-serif;
+$helvetica                  : $rishabh-font, Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 /* serif typefaces */
-$georgia                    : Georgia, serif;
-$times                      : Times, serif;
-$bodoni                     : "Bodoni MT", serif;
-$calisto                    : "Calisto MT", serif;
-$garamond                   : Garamond, serif;
+$georgia                    : $rishabh-font, Georgia, serif;
+$times                      : $rishabh-font, Times, serif;
+$bodoni                     : $rishabh-font, "Bodoni MT", serif;
+$calisto                    : $rishabh-font, "Calisto MT", serif;
+$garamond                   : $rishabh-font, Garamond, serif;
 
 $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
