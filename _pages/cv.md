@@ -34,7 +34,17 @@ Instrument development, laboratory experiments to study atmospheric chemistry of
 **Postdoctoral researcher** @ [Carnegie Mellon University](https://particulate-matter.cmu.edu/) _(Jul 2019)_ <br>
 Training graduate students on calibration, troubleshooting, maintenance of analytical instrumentation
 <br><br>
-    
+
+## Skills
+
+| **Technical** | Air pollution and atmospheric science, geospatial and time series analyses, applied statistics, mass spectrometry, instrument development |
+| **Communication** | Scientific writing, data visualization, distilling technical results for non-technical audience, college-level teaching |
+| **Software** | _Data wrangling and coding:_ R, SQL, Python (basic), Matlab <br>
+_Geospatial analyses:_ R, QGIS
+<br> _Scientific writing:_ LaTeX
+<br> _Data visualization:_ R, Veusz, Igor Pro|
+
+
 ## Teaching Experience
 
 **Guest Lecture** @ [Carnegie Mellon University](https://www.meche.engineering.cmu.edu/) _(Fall 2018)_ <br>
