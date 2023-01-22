@@ -37,13 +37,17 @@ Training graduate students on calibration, troubleshooting, maintenance of analy
 
 ## Skills
 
-| **Technical** | Air pollution and atmospheric science, geospatial and time series analyses, applied statistics, mass spectrometry, instrument development |
-| **Communication** | Scientific writing, data visualization, distilling technical results for non-technical audience, college-level teaching |
-| **Software** | _Data wrangling and coding:_ R, SQL, Python (basic), Matlab <br>
-_Geospatial analyses:_ R, QGIS
-<br> _Scientific writing:_ LaTeX
-<br> _Data visualization:_ R, Veusz, Igor Pro|
-
+**Technical**: Air pollution and atmospheric science, geospatial and time series analyses, applied statistics, mass spectrometry, instrument development
+<br>
+**Communication**: Scientific writing, data visualization, distilling technical results for non-technical audience, college-level teaching
+<br>
+**Software**:
+<br>
+| _Data wrangling and coding_ | R, SQL, Python (basic), Matlab |
+| _Geospatial analyses_ | R, QGIS |
+| _Scientific writing_ | LaTeX |
+| _Data visualization_ | R, Veusz, Igor Pro |
+<br><br>
 
 ## Teaching Experience
 
