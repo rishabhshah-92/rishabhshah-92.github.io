@@ -48,7 +48,6 @@ Training graduate students on calibration, troubleshooting, maintenance of analy
 | _Geospatial analyses_ | R, QGIS |
 | _Scientific writing_ | LaTeX |
 | _Data visualization_ | R, Veusz, Igor Pro |
-|-------------|-------------|
 
 <br><br>
 
