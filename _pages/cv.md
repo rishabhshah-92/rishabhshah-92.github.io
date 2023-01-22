@@ -42,7 +42,8 @@ Training graduate students on calibration, troubleshooting, maintenance of analy
 **Communication**: Scientific writing, data visualization, distilling technical results for non-technical audience, college-level teaching
 <br>
 **Software**:
-<br>
+| <!-- -->    | <!-- -->    |
+|-------------|-------------|
 | _Data wrangling and coding_ | R, SQL, Python (basic), Matlab |
 | _Geospatial analyses_ | R, QGIS |
 | _Scientific writing_ | LaTeX |
