@@ -43,6 +43,7 @@ Training graduate students on calibration, troubleshooting, maintenance of analy
 <br><br>
 **Software**:
 | <!-- -->    | <!-- -->    |
+|---|---|
 | _Data wrangling and coding_ | R, SQL, Python (basic), Matlab |
 | _Geospatial analyses_ | R, QGIS |
 | _Scientific writing_ | LaTeX |
