@@ -15,7 +15,7 @@ redirect_from:
 
 **Air Quality Scientist** @ [Aclima](https://aclima.io) _(Feb 2022 - Present)_ <br>
 - Cross-disciplinary role between the Data Science team and Science Operations team
-- Development of novel, consumer-facing air quality data products, often involving consumer-raised health concerns as the starting point to perform hypothesis testing (A/B testing, time series analysis, etc.)
+- Development of novel, consumer-facing air quality data products, often involving consumer-raised health concerns as the starting point to perform hypothesis testing
 - Contributing to external facing reports, while grounding them in rigorous data science and atmospheric science
 - Contribute to regular operations (data review, calibration and performance evaluation of sensors)
 <br><br>
