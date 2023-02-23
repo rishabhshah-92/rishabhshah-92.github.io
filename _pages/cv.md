@@ -14,8 +14,9 @@ redirect_from:
 ## Professional Experience
 
 **Air Quality Scientist** @ [Aclima](https://aclima.io) _(Feb 2022 - Present)_ <br>
-- Development of new air quality data products as part of the data analysis and storytelling team
-- Contributing to external facing reports, while grounding them in rigorous data science
+- Cross-disciplinary role between the Data Science team and Science Operations team
+- Development of novel, consumer-facing air quality data products, often involving consumer-raised health concerns as the starting point to perform hypothesis testing (A/B testing, time series analysis, etc.)
+- Contributing to external facing reports, while grounding them in rigorous data science and atmospheric science
 - Contribute to regular operations (data review, calibration and performance evaluation of sensors)
 <br><br>
 
@@ -45,7 +46,7 @@ Training graduate students on calibration, troubleshooting, maintenance of analy
 - _Data wrangling and coding_: R, SQL, Python (basic), Matlab
 - _Geospatial analyses_: R, QGIS
 - _Scientific writing_: LaTeX
-- _Data visualization_: R, Veusz, Igor Pro
+- _Data visualization_: R, Tableau, Veusz, Igor Pro
 <br><br>
 
 ## Teaching Experience
