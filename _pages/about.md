@@ -22,7 +22,7 @@ I very strongly support open-source software, and I believe students should be d
 | *Non-scientific writing* | Microsoft Word | [Libre Writer](https://www.libreoffice.org/discover/writer/) |
 | *Presentations* | Microsoft PowerPoint | [Libre Impress](https://www.libreoffice.org/discover/impress/) |
 | *Spreadsheets* | Microsoft Excel | [Libre Calc](https://www.libreoffice.org/discover/calc/) |
-| *Programming and data analysis* | MATLAB, Igor Pro | [RStudio](https://rstudio.com/) |
+| *Programming and data analysis* | MATLAB, Igor Pro | [R](https://www.r-project.org/), with IDEs like [RStudio](https://rstudio.com/), [VSCode](https://code.visualstudio.com/) |
 | *Relational database management* | Microsoft Access | [pgAdmin](https://www.pgadmin.org/), [DB Browser](https://sqlitebrowser.org/), [LibreOffice Base](https://www.libreoffice.org/discover/base/) |
 | *Geospatial analysis* | ArcGIS | [Q-GIS](https://www.qgis.org/en/site/) |
 | *GUI-based scientific plotting* | Grapher, Origin, Igor Pro, etc. | [Veusz](https://veusz.github.io/) |
