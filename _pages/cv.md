@@ -14,9 +14,9 @@ redirect_from:
 ## Professional Experience
 
 >  **Air Quality Scientist** @ [Aclima](https://aclima.io) _(Feb 2022 - Present)_ <br>
- Cross-disciplinary role between the Data Science team and Science Operations team<br>Development of novel, consumer-facing air quality data products, often involving consumer-raised health concerns as the starting point to perform hypothesis testing (A/B testing, geospatial and time series analysis, etc.)<br>
- Contributing to external facing reports, while grounding them in rigorous data science and atmospheric science <br>
- Contribute to regular operations (data review, calibration and performance evaluation of sensors)
+Cross-disciplinary role between the Data Science team and Science Operations team<br>Development of novel, consumer-facing air quality data products, often involving consumer-raised health concerns as the starting point to perform hypothesis testing (A/B testing, geospatial and time series analysis, etc.)<br>
+Contributing to external facing reports, while grounding them in rigorous data science and atmospheric science <br>
+Contribute to regular operations (data review, calibration and performance evaluation of sensors)
 
 > **Senior Air Quality Consultant** @ [Ramboll](https://ramboll.com/) _(Aug 2021 - Feb 2022)_ <br>
 Air pollutant emission inventories, dispersion, health risk assessment, compliance and permitting

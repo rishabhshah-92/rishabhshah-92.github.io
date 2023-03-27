@@ -14,6 +14,7 @@ I first stepped into the field of air pollution in 2012, when I was majoring in 
 
 My hobbies include cycling, swimming, and watching DIY videos on YouTube on a variety of topics e.g., fixing basic issues with computers, maintaining bikes, interesting tutorials on data analysis and visualization techniques, etc.
 
+<!---
 I very strongly support open-source software, and I believe students should be discouraged from becoming dependent on expensive proprietary software (e.g., MATLAB) for their academic/professional use, if an open-source alternative exists. I would go into details, but I think [this page](https://www.gnu.org/philosophy/free-sw.html) presents the rationale behind supporting open-source software perfectly. Based on personal experience, here are some recommendations I have for open-source software that are just as good (or in some cases, much better) compared to their proprietary counterparts:
 
 | **Purpose** | **Licensed/Proprietary software** | **Free/Open-source alternative** |
@@ -28,3 +29,5 @@ I very strongly support open-source software, and I believe students should be d
 | *GUI-based scientific plotting* | Grapher, Origin, Igor Pro, etc. | [Veusz](https://veusz.github.io/) |
 | *Figure editing* | Photoshop, Illustrator, etc. | [Inkscape](https://inkscape.org/) |
 | *Operating system* | macOS, Windows | Linux distributions: [Ubuntu](https://ubuntu.com/download/desktop), [Mint](https://linuxmint.com/)|
+
+-->
