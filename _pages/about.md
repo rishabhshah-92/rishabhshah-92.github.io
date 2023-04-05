@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Air Quality Scientist at [Aclima](https://www.aclima.io/). My main role involves analyzing the large volume of mobile air pollutant measurements collected by our vehicles, and develop metrics and indicators of pollution intensity at the hyperlocal (block-level) scale.
+I am a Senior Data Scientist at [Aclima](https://www.aclima.io/). My main role involves analyzing the large volume of mobile air pollutant measurements collected by our vehicles, and develop metrics and indicators of pollution intensity at the hyperlocal (block-level) scale.
 
 I first stepped into the field of air pollution in 2012, when I was majoring in Environmental Engineering at my undergraduate program. I was disappointed that a vast majority of the available courses in the department were related to water quality. I thus started reading up on air pollutants, their sources, their mitigation strategies, etc. as a side project.
 
