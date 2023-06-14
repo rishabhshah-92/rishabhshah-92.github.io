@@ -15,33 +15,34 @@ redirect_from:
 **Senior Data Scientist - Air Quality Applications** _(Apr 2023 - present)_ <br>
 **Air Quality Scientist** _(Feb 2022 - Mar 2023)_
 <details>
-Cross-disciplinary role between the Data Science team and Science Operations team<br>Development of novel, consumer-facing air quality data products, often involving consumer-raised health concerns as the starting point to perform hypothesis testing (A/B testing, geospatial and time series analysis, etc.)<br>
-Contributing to external facing reports, while grounding them in rigorous data science and atmospheric science <br>
-Contribute to regular operations (data review, calibration and performance evaluation of sensors)
-</details><br>
+- Cross-disciplinary role between the Data Science team and Science Operations team<br>
+- Development of novel, consumer-facing air quality data products, often involving consumer-raised health concerns as the starting point to perform hypothesis testing (A/B testing, geospatial and time series analysis, etc.)<br>
+- Contributing to external facing reports, while grounding them in rigorous data science and atmospheric science <br>
+- Contribute to regular operations (data review, calibration and performance evaluation of sensors)
+</details>
 
 ### [Ramboll](https://ramboll.com/)
 **Senior Air Quality Consultant** _(Aug 2021 - Feb 2022)_ <details>
 Air pollutant emission inventories, dispersion, health risk assessment, compliance and permitting
-</details><br>
+</details>
 
 ### [Environmental Defense Fund](http://edf.org/)
 **High Meadows Postdoctoral Fellow, Atmospheric Science** _(Mar 2020 - Jul 2021)_ <br>
 <details>
 GIS modeling and mapping of large mobile air monitoring datasets in London, UK and Cangzhou, China
-</details><br>
+</details>
 
 ### [NOAA](https://www.noaa.gov/) via [CIRES, University of Colorado, Boulder](https://cires.colorado.edu/)
 **Research scientist** _(Aug 2019 - Mar 2020)_ <br>
 <details>
 Instrument development, laboratory experiments to study atmospheric chemistry of aerosols
-</details><br>
+</details>
 
 ### [Carnegie Mellon University](https://particulate-matter.cmu.edu/)
 **Postdoctoral researcher** _(Jul 2019)_ 
 <details>
 Training graduate students on calibration, troubleshooting, maintenance of analytical instrumentation
-</details><br>
+</details>
 
 # <br>Skills
 > **Technical**: Air pollution and atmospheric science, geospatial and time series analyses, applied statistics, mass spectrometry, instrument development
